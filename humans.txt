@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Asqar Emin Asqar.emin@hpdlenscape.com
 
 # THANKS
 
