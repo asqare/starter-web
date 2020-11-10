@@ -11,5 +11,7 @@ Sample website with plenty of files for demos
 open up in the browser
 
 ## Contact
+XXX@hotmail.com
 
 ## Deployment
+www.howtodeploy.com
