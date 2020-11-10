@@ -8,7 +8,9 @@ Sample website with plenty of files for demos
 
 ## How to use
 
-open up in the browser
+open up in the browser, paste in the details.
+
+Use HTTPS for secure connections.
 
 ## Contact
 XXX@hotmail.com
