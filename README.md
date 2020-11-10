@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## How to use
 
+open up in the browser
+
 ## Contact
 
 ## Deployment
