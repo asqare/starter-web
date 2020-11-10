@@ -15,3 +15,6 @@ XXX@hotmail.com
 
 ## Deployment
 www.howtodeploy.com
+
+###Copyright
+2020 Git.Training.
